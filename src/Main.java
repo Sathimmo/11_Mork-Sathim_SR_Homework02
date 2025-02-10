@@ -258,6 +258,7 @@ public class Main {
                         System.out.println("From        :   Saving Account with ID: "+savingAccount.getAccountId());
                         System.out.println("To          : Checking Account with ID: "+checkingAccount.getAccountId());
                         System.out.println("Total Remain:                           $"+savingAccount.getBalance());
+
                     }
 
                     else {
